@@ -1,3 +1,4 @@
+# Extended Syntax
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 <table class="table table-bordered">

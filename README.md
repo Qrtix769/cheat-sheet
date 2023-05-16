@@ -1,4 +1,3 @@
 # Cheat Sheets
 
-#### Table of contents
-- [Markdown](Markdown.md)
+- [Markdown](Markdown\index.md)
