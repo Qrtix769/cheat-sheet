@@ -2,12 +2,6 @@
 
 Adding reference of videos to the Markdown file.
 
-- [Video](#video)
-	- [Using Markdown Code](#using-markdown-code)
-		- [Add *YouTube* Video](#add-youtube-video)
-	- [Using HTML Code](#using-html-code)
-		- [Optional Attributes](#optional-attributes)
-
 
 ## Using Markdown Code
 
@@ -21,14 +15,17 @@ Adding reference of videos to the Markdown file.
 
 Below is an example of how to reference a *YouTube* video.
 
+##### Code:
+```
+[![See the next video](https://img.youtube.com/vi/1BzzckYqT9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=1BzzckYqT9w "How to add reference to YouTube video")
+```
+
+##### Rendered output:
 
 [![See the next video](https://img.youtube.com/vi/1BzzckYqT9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=1BzzckYqT9w "How to add reference to YouTube video")
-
 To change the size of the displayed YouTube clickbait you only need to use one of the following names:
 - maxresdefault.jpg
-
 - hqdefault.jpg
-
 - default.jpg
 
 ## Using HTML Code
@@ -45,13 +42,11 @@ Another way to reference videos is by using the HTML `<video>` tag.
 
 ```
 
-
 Can also use the optional attributes shown in the following table to modify the behavior and other characteristics of the video.
 
 ### Optional Attributes
 
 <table class="ws-table-all notranslate">
-
   <tbody><tr>
     <th style="width:20%">Attribute</th>
     <th style="width:20%">Value</th>
