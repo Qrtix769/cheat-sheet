@@ -11,6 +11,7 @@ It is a JavaScript based diagramming and charting tool that renders Markdown-ins
 - [Etity Relationship](./Etity%20Relationship.md)
 - [Flowchart](./Flowchart.md)
 - [Pie chart](./Pie%20chart.md)
+- [User Journey](./User%20Journey.md)
 
 %% End Waypoint %%
 
