@@ -1,4 +1,5 @@
 # Format conventions
+---
 
 In programming languages, camel case, upper case, snake case and others are different conventions used to format the names of variables, functions, and other identifiers. The main differences between these conventions are as follows:
 
@@ -13,7 +14,8 @@ In programming languages, camel case, upper case, snake case and others are diff
 | Hungarian Notation | `strName`                  | The identifier includes a prefix or abbreviation indicating its data type.                                          |
 | Camel Snake Case | `my_Variable`               | Words within the identifier start with an uppercase letter and are separated by underscores.                      |
 
-## Camel Case:
+## Camel Case
+---
 
 Camel case is a naming convention where each word within an identifier starts with an uppercase letter except for the first word, which starts with a lowercase letter. This convention is commonly used in JavaScript, Java, and C#. For example:
 
@@ -21,7 +23,8 @@ Camel case is a naming convention where each word within an identifier starts wi
    - `calculateInterestRate`
    - `getUserDetails`
 
-## Pascal Case: 
+## Pascal Case
+---
 
 Pascal case is similar to camel case, but with the first letter of each word capitalized. This convention is commonly used in C#, Java, and .NET Framework. For example:
 
@@ -29,7 +32,8 @@ Pascal case is similar to camel case, but with the first letter of each word cap
    - `CalculateInterestRate`
    - `GetUserDetails`
 
-## Snake Case: 
+## Snake Case
+---
 
 Snake case is a naming convention where words within an identifier are separated by underscores, and all letters are lowercase. This convention is commonly used in Python and Ruby. For example:
 
@@ -37,7 +41,8 @@ Snake case is a naming convention where words within an identifier are separated
    - `calculate_interest_rate`
    - `get_user_details`
 
-## Kebab Case: 
+## Kebab Case
+---
 
 Kebab case is similar to snake case, but with hyphens (-) instead of underscores (_). This convention is commonly used in HTML, CSS, and URLs. For example:
 
@@ -45,7 +50,8 @@ Kebab case is similar to snake case, but with hyphens (-) instead of underscores
    - `calculate-interest-rate`
    - `get-user-details`
 
-## Screaming Snake Case: 
+## Screaming Snake Case
+---
 
 Screaming snake case is a naming convention where words within an identifier are separated by underscores, and all letters are uppercase. This convention is commonly used for constants or global variables. For example:
 
@@ -53,7 +59,8 @@ Screaming snake case is a naming convention where words within an identifier are
    - `GLOBAL_VARIABLE`
    - `MAX_VALUE`
 
-## Train Case: 
+## Train Case
+---
 
 Train case is similar to screaming snake case, but with hyphens (-) instead of underscores (_). This convention is also commonly used for constants or global variables. For example:
 

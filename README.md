@@ -1,4 +1,14 @@
 # Cheat Sheets
 
-- [Programming Language Conventions](Conventions/Conventions.md)
-- [Documentation Languages](Documentation%20Languages/Documentation%20Languages.md)
+---
+- **Programming Languages**
+	- **[C#](./src/Programming%20Languages/CSharp/CSharp.md)**
+- **Programming Languages Conventions**
+	- **[Formats Conventions](./src/Conventions/Formats.md)**
+- **Documentation Languages**
+	- **[Markdown](./src/Documentation%20Languages/Markdown/Markdown.md)**
+- **Tools**
+- **OS**
+- **Languages**
+---
+ 

@@ -1,4 +1,5 @@
-# Flowcharts - Basic Syntax[#](https://mermaid.js.org/syntax/flowchart.html#flowcharts-basic-syntax)
+# Flowcharts - Basic Syntax [#](https://mermaid.js.org/syntax/flowchart.html#flowcharts-basic-syntax)
+---
 
 All Flowcharts are composed of **nodes**, the geometric shapes and **edges**, the arrows o
 

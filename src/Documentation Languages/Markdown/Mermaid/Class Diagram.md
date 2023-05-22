@@ -1,4 +1,5 @@
-#  Class diagrams[#](https://mermaid.js.org/syntax/classDiagram.html#class-diagrams)
+#  Class diagrams [#](https://mermaid.js.org/syntax/classDiagram.html#class-diagrams)
+---
 
 The class diagram is the main building block of object-oriented modeling. It is used for general conceptual modeling of the structure of the application, and for detailed modeling to translate the models into programming code. Class diagrams can also be used for data modeling. The classes in a class diagram represent both the main elements, interactions in the application, and the classes to be programmed.
 
@@ -80,6 +81,7 @@ classDiagram
 ```
 
 ## Visibility
+---
 
 To describe the visibility (or encapsulation) of an attribute or method/function that is a part of a class (i.e. a class member), optional notation may be placed before that members' name:
 
@@ -99,6 +101,7 @@ To describe the visibility (or encapsulation) of an attribute or method/function
 
 
 ## Defining Relationship
+---
 
 A relationship is a general term covering the specific types of logical connections found on class and object diagrams.
 
