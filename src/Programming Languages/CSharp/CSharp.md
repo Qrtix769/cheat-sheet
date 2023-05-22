@@ -1,8 +1,8 @@
-# [![](../../../icons/back-arrow.png)](../../../README.md) C\#
+# [![](../../../icons/backward.png)](../../../README.md) C\#
 ---
 
 %% Begin Waypoint %%
 - **Frameworks**
-	- **[NET](Frameworks/NET/NET.md)**
+	- **[NET](./Frameworks/NET/NET.md)**
 
 %% End Waypoint %%

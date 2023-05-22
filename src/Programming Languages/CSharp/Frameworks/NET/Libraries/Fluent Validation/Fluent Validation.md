@@ -1,4 +1,4 @@
-# Fluent Validation [#](https://docs.fluentvalidation.net/en/latest/)
+# [![backward](../../../../../../../icons/backward.png)](../../NET.md) Fluent Validation [#](https://docs.fluentvalidation.net/en/latest/)
 ---
 
 Fluent validation is one way of setting up dedicated validator objects, which you would use when you want to treat validation logic as separate from business logic. The aspect-oriented programming (AOP) paradigm enables separation of cross-cutting concerns within a system, and validation is one such concern. Separating validation helps clean up your domain code and make it more cohesive, as well as giving you a single place to look for validation logic.

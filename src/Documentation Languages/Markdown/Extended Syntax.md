@@ -1,4 +1,4 @@
-# Extended Syntax [#](https://www.markdownguide.org/extended-syntax/)
+# [![backward](../../../icons/backward.png)](Markdown.md) Extended Syntax [#](https://www.markdownguide.org/extended-syntax/)
 ---
 
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.

@@ -1,4 +1,4 @@
-# [![](back-arrow.png)](../Markdown.md) Mermaid [#](https://mermaid.js.org/intro/#about-mermaid)
+# [![](backward.png)](../Markdown.md) Mermaid [#](https://mermaid.js.org/intro/#about-mermaid)
 ---
 
 **Mermaid lets you create diagrams and visualizations using text and code.**
