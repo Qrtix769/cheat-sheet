@@ -17,4 +17,4 @@ Fluent validation is one way of setting up dedicated validator objects, which yo
 ## Quick Notes
 ---
 
-![Installation](Installation.md)
+![Installation](./Installation.md)
